@@ -7,7 +7,7 @@ const Post = ({ router }) => (
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam atque saepe
       hic ullam dolores deleniti excepturi, provident recusandae ex error
       explicabo sed omnis, pariatur molestiae temporibus. Velit mollitia tempora
-      tenetur.
+      tenetur
     </p>
   </Layout>
 );
